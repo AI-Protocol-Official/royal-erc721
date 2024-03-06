@@ -1,4 +1,4 @@
-# Tiny ERC721 #
+# Royal ERC721 #
 Feature rich lightweight ERC721 implementation.
 
 This repo contains the [token implementation](contracts/token/AdvancedERC20.sol) and
